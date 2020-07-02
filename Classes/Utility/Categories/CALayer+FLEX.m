@@ -9,11 +9,12 @@
 #import "CALayer+FLEX.h"
 
 @interface CALayer (Private)
-@property (nonatomic) BOOL continuousCorners;
+//@property (nonatomic) BOOL continuousCorners;
 @end
 
 @implementation CALayer (FLEX)
 
+/*
 static BOOL respondsToContinuousCorners = NO;
 
 + (void)load {
@@ -42,5 +43,6 @@ static BOOL respondsToContinuousCorners = NO;
         }
     }
 }
+*/
 
 @end

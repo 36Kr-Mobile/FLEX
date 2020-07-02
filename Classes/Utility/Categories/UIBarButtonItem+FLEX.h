@@ -33,6 +33,6 @@
 /// @return the receiver
 - (UIBarButtonItem *)withTintColor:(UIColor *)tint;
 
-- (void)_setWidth:(CGFloat)width;
+//- (void)_setWidth:(CGFloat)width;
 
 @end
